@@ -1,0 +1,15 @@
+# Build artifacts
+target/
+
+# OS files
+.DS_Store
+
+# IDE/editor directories
+.idea/
+*.iml
+
+# Maven wrapper (if added later)
+.mvn/
+
+# Logs
+*.log
